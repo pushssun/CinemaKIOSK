@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 629a53f8f55033a439f1724b3b536fbf, type: 3}
+  m_Name: Movie Database
+  m_EditorClassIdentifier: 
+  Movies:
+  - Name: "\uC18C\uB144\uB4E4"
+    Age: 15
+    Theater: 5
+    Count: 4
+    Date: "2023.10.15(\uC77C)"
+    Time: 09:30
+    Image: {fileID: 21300000, guid: e51e1f6332792e84e820361410f0fe59, type: 3}
+  - Name: "\uADF8\uB300\uB4E4\uC740 \uC5B4\uB5BB \uC0B4 \uAC83\uC778\uAC00"
+    Age: 0
+    Theater: 0
+    Count: 0
+    Date: 
+    Time: 09:30
+    Image: {fileID: 21300000, guid: e5a621a82c44d0e489611d88d9815f8c, type: 3}
+  - Name: "\uD14C\uC77C\uB7EC \uC2A4\uC704\uD504 \uB514 \uC5D0\uB77C\uC2A4 \uD22C\uC5B4"
+    Age: 0
+    Theater: 0
+    Count: 0
+    Date: 
+    Time: 18:45
+    Image: {fileID: 21300000, guid: 2729705a6d80c6f4aac5b70d68103a8a, type: 3}
+  - Name: "\uB354 \uB9C8\uBE14\uC2A4"
+    Age: 12
+    Theater: 0
+    Count: 0
+    Date: 
+    Time: 09:30
+    Image: {fileID: 21300000, guid: af667fba612219341a2c36589ea1addc, type: 3}
+  - Name: "\uD1A1 \uD22C \uBBF8"
+    Age: 15
+    Theater: 0
+    Count: 0
+    Date: 
+    Time: 17:55
+    Image: {fileID: 21300000, guid: 540d5db4b1b6fa24f92d4d882079061a, type: 3}
+  - Name: "\uC870\uCEE4"
+    Age: 15
+    Theater: 0
+    Count: 0
+    Date: 
+    Time: 14:00
+    Image: {fileID: 21300000, guid: 4abe1b4b61bf1b745bb828f435b53b65, type: 3}
+  - Name: "\uC6D0 \uBAA8\uC5B4 \uCC2C\uC2A4"
+    Age: 0
+    Theater: 0
+    Count: 0
+    Date: 
+    Time: 13:20
+    Image: {fileID: 21300000, guid: ca334493438558448ba68895ae071c5c, type: 3}
+  - Name: "\uC2DC\uBBAC\uB7F0\uD2B8"
+    Age: 15
+    Theater: 0
+    Count: 0
+    Date: 
+    Time: 13:30
+    Image: {fileID: 21300000, guid: d47396576765f78438de335bab45eb14, type: 3}
+  - Name: "\uB274 \uB178\uBA40"
+    Age: 15
+    Theater: 0
+    Count: 0
+    Date: 
+    Time: 13:00
+    Image: {fileID: 21300000, guid: c96aea51c7234a346870668498e68684, type: 3}
+  - Name: "\uB179\uC57C"
+    Age: 15
+    Theater: 0
+    Count: 0
+    Date: 
+    Time: 10:20
+    Image: {fileID: 21300000, guid: 67583ce5dfa2fa14fabd3e537727532c, type: 3}
